@@ -1,0 +1,11 @@
+def demo_1
+    puts "enter a number: "
+    num = gets.to_i
+
+    if num > 0 then 
+        puts "number variable is positive"
+    end
+end
+
+demo_1
+    

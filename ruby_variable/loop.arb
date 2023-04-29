@@ -6,11 +6,14 @@ i = 0
 # end
 
 # begin
-#     puts ("INside the loop i = #{i}")
+#     puts ("INside the loop i = #{}")
 #     i+=1
 # end while i < 2
 
-until  i >5 do
-    puts (" inside the loop i = #{i}")
-    i +=1    
-end
+# until  i >5 do
+#     puts (" inside the loop i = #{i}")
+#     i +=1    
+# end
+
+# tương tự đối với begin end
+
