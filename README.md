@@ -8,4 +8,4 @@ Learn ruby_basic at daotao.ai (farm đrl)
 
 
 
-## update lời giải tại file update_key.txt
+## update đáp án tại file update_key.txt
