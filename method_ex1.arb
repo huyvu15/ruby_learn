@@ -1,0 +1,28 @@
+# def hello
+#     puts "hello world!"
+# end
+# hello
+
+
+
+# def sum(x, y)
+#     p x+y
+#     puts p
+# end
+# sum(1, 2)
+
+# def calculaye_value_2(value='default', arr=[])
+
+#     puts value
+
+#     puts arr.sum
+
+# end
+# calculaye_value_2([2,3])
+1.upto(10){|x| puts x}
+
+def hello(&block)
+
+    yield
+
+end
