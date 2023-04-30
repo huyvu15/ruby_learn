@@ -5,7 +5,7 @@ opend soursecode ruby: typing in terminal 'irb'
 ## conditional
 ## method
 ## class
-
+## array
 
 
 
