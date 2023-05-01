@@ -9,5 +9,5 @@ opend soursecode ruby: typing in terminal 'irb'
 
 
 
-## update ket at file update_key.txt
+## update key at file update_key.txt
 (earn code to commit)
