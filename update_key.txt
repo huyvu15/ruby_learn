@@ -7,7 +7,8 @@ Có thể bị lệch về thứ tự
 7. 13'20 (unless), 21'20 ( little child ), 26' (Case in)
 8. 9'15 (5), 14' (return), 17'50 (C), 20' (3), 25' (1.upto(10){|x| puts x}), 28'(proc.new), 35'30 (square.call (6)), 42'15(A)	
 9. 3' (3), 6'40(chưa có đáp án),11'30 (a),  đặt câu hỏi: lệnh kiểm tra xem mảng rỗng video 10 câu 2
-video 11:
+video 11: 2' (nil), 8'20 (try_convert), 10'49 (b), 18'10(gán giá trị), 21'(C)
+video 12: 
 
 
 
