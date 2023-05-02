@@ -6,7 +6,8 @@ opend soursecode ruby: typing in terminal 'irb'
 ## method
 ## class
 ## array
-
+## OPP
+## working with file
 
 
 ## update key at file update_key.txt

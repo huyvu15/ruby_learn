@@ -1,0 +1,61 @@
+# #OPP
+# class Box
+#     def public_instance
+#         puts "public_instance is public method!!!!" 
+#         protected_instance
+#         private_instance
+#         self.protected_instance
+#         self.private_instance
+#     end
+#     protected
+#     def protected_instance
+#         puts "protected_instance is protected method!!!!" 
+#     end
+    
+#     private
+#     def private_instance
+#         puts "private_instance is private method!!!!" 
+#     end
+#    end
+
+# box = Box.new
+# box.public_instance
+# class Staff
+#     class << self
+#         def public_class
+#             puts "public_class is public method!!!!" 
+#         end
+#         protected
+#         def protected_class
+#             puts "protected_class is protected method!!!!" 
+#         end
+        
+#         private
+        
+#         def private_class
+#             puts "private_class is private method!!!!" 
+#         end
+#     end
+#    end
+
+# Staff.private_class
+
+# 1. Inheritance with instance method
+class Animal
+    def speak
+        "Hello!"
+    end
+end
+class GoodDog < Animal
+    attr_accessor :name
+    
+    def initialize n
+        self.name = n
+    end
+    def speak
+        "#{self.name} says arf!"
+    end
+end
+class Cat < Animal
+end
+   

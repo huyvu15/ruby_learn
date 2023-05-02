@@ -1,0 +1,19 @@
+#File.new("text.txt", "w+") # tạo fiel
+
+# thêm nội dung vào file
+
+File.read("text.txt")
+
+
+# đọc file theo từng dòng 
+File.readlines("text.txt")
+
+# tạo thành 1 mảng
+
+my_file = File.open("text.txt", "r")
+my_file.close
+
+
+# ghi đè và thay thế lại
+my_file = File.open("text.txt", "w+")
+my_file.puts("them vao file")
