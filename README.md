@@ -8,7 +8,11 @@ opend soursecode ruby: typing in terminal 'irb'
 ## array
 ## OPP
 ## working with file
+## module
 
+## error handing
+## regular expression
+## metaprogramming
 
 ## update key at file update_key.txt
 (earn code to commit)

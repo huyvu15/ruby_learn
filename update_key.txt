@@ -10,8 +10,10 @@ Có thể bị lệch về thứ tự
 video 11: 2' (nil), 8'20 (try_convert), 10'49 (b), 18'10(gán giá trị), 21'(C)
 video 12: 1'30(CamelCase),11' (C), 20'(A), 31'11(Polymorphism )
 video 13: 1'27(A), 7'30(r, w, w+, a+), 12'30(.puts)
-video 14:
+video 14: 3'(C), 13' (a, b), 20'26(B)
+video 15: 3'20(A), 10'30(B)
+video 16: 8'10 (A), 14'20 (B), 20'30 (C)
+video 17: 1'20 (Reflection), 16'40(A) 
 
-- 
-
+End
 

@@ -1,0 +1,13 @@
+# regix
+# r =  /cat/
+
+words = %w[o on car nole train]
+n = 1
+for w in words
+    puts w if w.match? /\A\w{#{n}}\z/
+    n +=1
+end
+
+
+'cat and dog'.match?(/t a/)
+

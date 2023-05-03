@@ -1,0 +1,16 @@
+module WarmUp
+    def push_ups
+        "Phew, I need a break!"
+    end
+    
+end
+
+class Gym
+    include WarmUp # mising
+    def preacher_curls
+        "I'm building my biceps."
+    end
+end
+Gym.new.push_ups
+
+
