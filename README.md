@@ -16,3 +16,6 @@ opend soursecode ruby: typing in terminal 'irb'
 
 ## update key at file update_key.txt
 (earn code to commit)
+
+# Results:
+![](https://github.com/huyvu15/ruby_learn/blob/main/result_end_course.png)
